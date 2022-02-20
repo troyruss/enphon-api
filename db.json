@@ -1,0 +1,18 @@
+{
+  "sounds": [
+    {
+      "id": 0,
+      "name": "voiced bilabial nasal",
+      "symbol": "m",
+      "type": "consonant",
+      "examples": ["him", "make", "small"]
+    },
+    {
+      "id": 1,
+      "name": "near-close front unrounded vowel",
+      "symbol": "ɪ",
+      "type": "vowel",
+      "examples": ["crystal", "interest", "kit"]
+    }
+  ]
+}
