@@ -5,6 +5,7 @@
       "name": "voiced bilabial nasal",
       "symbol": "m",
       "type": "consonant",
+      "articulation": {"place": "labial", "manner": "nasal", "voiced": true},
       "examples": ["him", "make", "small"]
     },
     {
@@ -12,6 +13,7 @@
       "name": "unvoiced bilabial plosive",
       "symbol": "p",
       "type": "consonant",
+      "articulation": {"place": "labial", "manner": "plosive", "voiced": false},
       "examples": ["part", "report", "help"]
     },
     {
@@ -19,6 +21,7 @@
       "name": "voiced bilabial plosive",
       "symbol": "b",
       "type": "consonant",
+      "articulation": {"place": "labial", "manner": "plosive", "voiced": true},
       "examples": ["ball", "about", "web"]
     },
     {
@@ -26,6 +29,7 @@
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
+      "articulation": {"height": "high", "backness": "front", "rounded": false, "tense": true},
       "examples": ["crystal", "interest", "kit"]
     }
   ]
