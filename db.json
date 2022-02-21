@@ -9,6 +9,20 @@
     },
     {
       "id": 1,
+      "name": "unvoiced bilabial plosive",
+      "symbol": "p",
+      "type": "consonant",
+      "examples": ["part", "report", "help"]
+    },
+    {
+      "id": 2,
+      "name": "voiced bilabial plosive",
+      "symbol": "b",
+      "type": "consonant",
+      "examples": ["ball", "about", "web"]
+    },
+    {
+      "id": 3,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
