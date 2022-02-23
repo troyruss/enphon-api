@@ -5,7 +5,7 @@
       "name": "voiced bilabial nasal",
       "symbol": "m",
       "type": "consonant",
-      "articulation": {"place": "labial", "manner": "nasal", "voiced": true},
+      "articulation": {"place": "labial", "manner": "nasal", "isVoiced": true},
       "examples": ["him", "make", "small"]
     },
     {
@@ -13,7 +13,7 @@
       "name": "unvoiced bilabial plosive",
       "symbol": "p",
       "type": "consonant",
-      "articulation": {"place": "labial", "manner": "plosive", "voiced": false},
+      "articulation": {"place": "labial", "manner": "plosive", "isVoiced": false},
       "examples": ["part", "report", "help"]
     },
     {
@@ -21,15 +21,31 @@
       "name": "voiced bilabial plosive",
       "symbol": "b",
       "type": "consonant",
-      "articulation": {"place": "labial", "manner": "plosive", "voiced": true},
+      "articulation": {"place": "labial", "manner": "plosive", "isVoiced": true},
       "examples": ["ball", "about", "web"]
     },
     {
       "id": 3,
+      "name": "unvoiced labiodental fricative",
+      "symbol": "f",
+      "type": "consonant",
+      "articulation": {"place": "labial", "manner": "fricative", "isVoiced": false},
+      "examples": ["face", "before", "off"]
+    },
+    {
+      "id": 4,
+      "name": "voiced labiodental fricative",
+      "symbol": "v",
+      "type": "consonant",
+      "articulation": {"place": "labial", "manner": "fricative", "isVoiced": true},
+      "examples": ["visit", "over", "drive"]
+    },
+    {
+      "id": 5,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
-      "articulation": {"height": "high", "backness": "front", "rounded": false, "tense": true},
+      "articulation": {"height": "high", "backness": "front", "isRounded": false, "isTense": true},
       "examples": ["crystal", "interest", "kit"]
     }
   ]
