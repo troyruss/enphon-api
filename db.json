@@ -42,6 +42,22 @@
     },
     {
       "id": 5,
+      "name": "unvoiced dental fricative",
+      "symbol": "θ",
+      "type": "consonant",
+      "articulation": {"place": "dental", "manner": "fricative", "isVoiced": false},
+      "examples": ["three", "healthy", "mouth"]
+    },
+    {
+      "id": 6,
+      "name": "voiced dental fricative",
+      "symbol": "ð",
+      "type": "consonant",
+      "articulation": {"place": "dental", "manner": "fricative", "isVoiced": true},
+      "examples": ["this", "father", "smooth"]
+    },
+    {
+      "id": 7,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
