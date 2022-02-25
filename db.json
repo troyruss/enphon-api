@@ -58,6 +58,30 @@
     },
     {
       "id": 7,
+      "name": "voiced alveolar nasal",
+      "symbol": "n",
+      "type": "consonant",
+      "articulation": {"place": "alveolar", "manner": "nasal", "isVoiced": true},
+      "examples": ["new", "money", "run"]
+    },
+    {
+      "id": 8,
+      "name": "unvoiced alveolar stop",
+      "symbol": "t",
+      "type": "consonant",
+      "articulation": {"place": "alveolar", "manner": "stop", "isVoiced": false},
+      "examples": ["time", "stop", "last"]
+    },
+    {
+      "id": 9,
+      "name": "voiced alveolar stop",
+      "symbol": "d",
+      "type": "consonant",
+      "articulation": {"place": "alveolar", "manner": "stop", "isVoiced": false},
+      "examples": ["day", "idea", "bad"]
+    },
+    {
+      "id": 10,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
