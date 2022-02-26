@@ -82,6 +82,38 @@
     },
     {
       "id": 10,
+      "name": "unvoiced alveolar sibilant",
+      "symbol": "s",
+      "type": "consonant",
+      "articulation": {"place": "alveolar", "manner": "fricative", "isVoiced": false},
+      "examples": ["same", "basic", "yes"]
+    },
+    {
+      "id": 11,
+      "name": "voiced alveolar sibilant",
+      "symbol": "z",
+      "type": "consonant",
+      "articulation": {"place": "alveolar", "manner": "fricative", "isVoiced": true},
+      "examples": ["zoo", "lazy", "size"]
+    },
+    {
+      "id": 12,
+      "name": "voiced alveolar (lateral) liquid",
+      "symbol": "l",
+      "type": "consonant",
+      "articulation": {"place": "alveolar", "manner": "approximant", "isVoiced": true},
+      "examples": ["love", "old", "level"]
+    },
+    {
+      "id": 13,
+      "name": "unvoiced palato-alveolar affricate",
+      "symbol": "tʃ",
+      "type": "consonant",
+      "articulation": {"place": "palato-alveolar", "manner": "affricate", "isVoiced": false},
+      "examples": ["chance", "kitchen", "beach"]
+    },
+    {
+      "id": 14,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
