@@ -114,6 +114,14 @@
     },
     {
       "id": 14,
+      "name": "voiced palato-alveolar affricate",
+      "symbol": "dʒ",
+      "type": "consonant",
+      "articulation": {"place": "palato-alveolar", "manner": "affricate", "isVoiced": true},
+      "examples": ["jam", "enjoy", "badge"]
+    },
+    {
+      "id": 15,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
