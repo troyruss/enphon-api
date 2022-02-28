@@ -122,6 +122,22 @@
     },
     {
       "id": 15,
+      "name": "unvoiced palato-alveolar sibilant",
+      "symbol": "ʃ",
+      "type": "consonant",
+      "articulation": {"place": "palato-alveolar", "manner": "fricative", "isVoiced": false},
+      "examples": ["shop", "fashion", "push"]
+    },
+    {
+      "id": 16,
+      "name": "voiced palato-alveolar sibilant",
+      "symbol": "ʒ",
+      "type": "consonant",
+      "articulation": {"place": "palato-alveolar", "manner": "fricative", "isVoiced": true},
+      "examples": ["genre", "usual", "massage"]
+    },
+    {
+      "id": 17,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
