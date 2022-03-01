@@ -138,6 +138,22 @@
     },
     {
       "id": 17,
+      "name": "voiced alveolar approximant",
+      "symbol": "ɹ",
+      "type": "consonant",
+      "articulation": {"place": "alveolar", "manner": "approximant", "isVoiced": true},
+      "examples": ["right", "serious", "there"]
+    },
+    {
+      "id": 18,
+      "name": "voiced palatal approximant",
+      "symbol": "j",
+      "type": "consonant",
+      "articulation": {"place": "palatal", "manner": "approximant", "isVoiced": true},
+      "examples": ["you", "community", "few"]
+    },
+    {
+      "id": 19,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
