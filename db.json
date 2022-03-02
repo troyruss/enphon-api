@@ -154,6 +154,14 @@
     },
     {
       "id": 19,
+      "name": "voiced velar nasal",
+      "symbol": "ŋ",
+      "type": "consonant",
+      "articulation": {"place": "velar", "manner": "nasal", "isVoiced": true},
+      "examples": ["morning", "hungry", "bang"]
+    },
+    {
+      "id": 20,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
