@@ -162,6 +162,22 @@
     },
     {
       "id": 20,
+      "name": "unvoiced velar stop",
+      "symbol": "k",
+      "type": "consonant",
+      "articulation": {"place": "velar", "manner": "stop", "isVoiced": false},
+      "examples": ["coat", "account", "book"]
+    },
+    {
+      "id": 21,
+      "name": "voiced velar stop",
+      "symbol": "g",
+      "type": "consonant",
+      "articulation": {"place": "velar", "manner": "stop", "isVoiced": true},
+      "examples": ["game", "begin", "dog"]
+    },
+    {
+      "id": 22,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
