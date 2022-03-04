@@ -178,6 +178,22 @@
     },
     {
       "id": 22,
+      "name": "voiced labio-velar approximant",
+      "symbol": "w",
+      "type": "consonant",
+      "articulation": {"place": "labio-velar", "manner": "approximant", "isVoiced": true},
+      "examples": ["wear", "swing", "away"]
+    },
+    {
+      "id": 23,
+      "name": "unvoiced glottal fricative",
+      "symbol": "h",
+      "type": "consonant",
+      "articulation": {"place": "glottal", "manner": "fricative", "isVoiced": false},
+      "examples": ["help", "home", "behind"]
+    },
+    {
+      "id": 24,
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
