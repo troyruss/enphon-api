@@ -197,8 +197,24 @@
       "name": "near-close front unrounded vowel",
       "symbol": "ɪ",
       "type": "vowel",
-      "articulation": {"height": "high", "backness": "front", "isRounded": false, "isTense": true},
+      "articulation": {"height": "near-high", "backness": "front", "isRounded": false, "isTense": false},
       "examples": ["crystal", "interest", "kit"]
+    },
+    {
+      "id": 25,
+      "name": "open-mid front unrounded vowel",
+      "symbol": "ɛ",
+      "type": "vowel",
+      "articulation": {"height": "low-mid", "backness": "front", "isRounded": false, "isTense": false},
+      "examples": ["egg", "pen", "request"]
+    },
+    {
+      "id": 26,
+      "name": "near-open front unrounded vowel",
+      "symbol": "æ",
+      "type": "vowel",
+      "articulation": {"height": "near-low", "backness": "front", "isRounded": false, "isTense": false},
+      "examples": ["act", "cat", "family"]
     }
   ]
 }
