@@ -215,6 +215,14 @@
       "type": "vowel",
       "articulation": {"height": "near-low", "backness": "front", "isRounded": false, "isTense": false},
       "examples": ["act", "cat", "family"]
+    },
+    {
+      "id": 27,
+      "name": "close front unrounded vowel",
+      "symbol": "i",
+      "type": "vowel",
+      "articulation": {"height": "high", "backness": "front", "isRounded": false, "isTense": true},
+      "examples": ["equal", "secret", "free"]
     }
   ]
 }
