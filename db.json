@@ -223,6 +223,14 @@
       "type": "vowel",
       "articulation": {"height": "high", "backness": "front", "isRounded": false, "isTense": true},
       "examples": ["equal", "secret", "free"]
+    },
+    {
+      "id": 28,
+      "name": "close-mid front unrounded vowel",
+      "symbol": "eɪ",
+      "type": "vowel",
+      "articulation": {"height": "high-mid", "backness": "front", "isRounded": false, "isTense": true},
+      "examples": ["age", "cake", "say"]
     }
   ]
 }
