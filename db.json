@@ -231,6 +231,22 @@
       "type": "vowel",
       "articulation": {"height": "high-mid", "backness": "front", "isRounded": false, "isTense": true},
       "examples": ["age", "cake", "say"]
+    },
+    {
+      "id": 29,
+      "name": "mid central vowel",
+      "symbol": "ə",
+      "type": "vowel",
+      "articulation": {"height": "mid", "backness": "central", "isRounded": false, "isTense": false},
+      "examples": ["age", "cake", "say"]
+    },
+    {
+      "id": 30,
+      "name": "open-mid back unrounded vowel",
+      "symbol": "ʌ",
+      "type": "vowel",
+      "articulation": {"height": "high-mid", "backness": "back", "isRounded": false, "isTense": false},
+      "examples": ["up", "bus", "compass"]
     }
   ]
 }
