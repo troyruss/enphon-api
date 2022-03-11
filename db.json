@@ -238,14 +238,14 @@
       "symbol": "ə",
       "type": "vowel",
       "articulation": {"height": "mid", "backness": "central", "isRounded": false, "isTense": false},
-      "examples": ["age", "cake", "say"]
+      "examples": ["about", "family", "camera"]
     },
     {
       "id": 30,
       "name": "open-mid back unrounded vowel",
       "symbol": "ʌ",
       "type": "vowel",
-      "articulation": {"height": "high-mid", "backness": "back", "isRounded": false, "isTense": false},
+      "articulation": {"height": "low-mid", "backness": "back", "isRounded": false, "isTense": false},
       "examples": ["up", "bus", "compass"]
     }
   ]
