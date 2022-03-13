@@ -247,6 +247,14 @@
       "type": "vowel",
       "articulation": {"height": "low-mid", "backness": "back", "isRounded": false, "isTense": false},
       "examples": ["up", "bus", "compass"]
+    },
+    {
+      "id": 31,
+      "name": "open back unrounded vowel",
+      "symbol": "ɑ",
+      "type": "vowel",
+      "articulation": {"height": "low", "backness": "back", "isRounded": false, "isTense": true},
+      "examples": ["art", "father", "spa"]
     }
   ]
 }
