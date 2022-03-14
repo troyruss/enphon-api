@@ -255,6 +255,14 @@
       "type": "vowel",
       "articulation": {"height": "low", "backness": "back", "isRounded": false, "isTense": true},
       "examples": ["art", "father", "spa"]
+    },
+    {
+      "id": 32,
+      "name": "near-close near-back rounded vowel",
+      "symbol": "ʊ",
+      "type": "vowel",
+      "articulation": {"height": "near-high", "backness": "back", "isRounded": true, "isTense": false},
+      "examples": ["book", "good", "cushion"]
     }
   ]
 }
