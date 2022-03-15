@@ -263,6 +263,14 @@
       "type": "vowel",
       "articulation": {"height": "near-high", "backness": "back", "isRounded": true, "isTense": false},
       "examples": ["book", "good", "cushion"]
+    },
+    {
+      "id": 33,
+      "name": "close back rounded vowel",
+      "symbol": "u",
+      "type": "vowel",
+      "articulation": {"height": "high", "backness": "back", "isRounded": true, "isTense": true},
+      "examples": ["oops", "cool", "blue"]
     }
   ]
 }
