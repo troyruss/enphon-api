@@ -227,7 +227,7 @@
     {
       "id": 28,
       "name": "close-mid front unrounded vowel",
-      "symbol": "eɪ",
+      "symbol": "e",
       "type": "vowel",
       "articulation": {"height": "high-mid", "backness": "front", "isRounded": false, "isTense": true},
       "examples": ["age", "cake", "say"]
