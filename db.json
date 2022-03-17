@@ -269,8 +269,16 @@
       "name": "close back rounded vowel",
       "symbol": "u",
       "type": "vowel",
-      "articulation": {"height": "high", "backness": "back", "isRounded": true, "isTense": true},
+      "articulation": {"height": "high", "backness": "back", "isRounded": true, "isTense": false},
       "examples": ["oops", "cool", "blue"]
+    },
+    {
+      "id": 34,
+      "name": "open-mid back rounded vowel",
+      "symbol": "ɔ",
+      "type": "vowel",
+      "articulation": {"height": "low-mid", "backness": "back", "isRounded": true, "isTense": false},
+      "examples": ["ought", "water", "raw"]
     }
   ]
 }
