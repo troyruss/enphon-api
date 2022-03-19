@@ -278,7 +278,7 @@
       "symbol": "ɔ",
       "type": "vowel",
       "articulation": {"height": "low-mid", "backness": "back", "isRounded": true, "isTense": false},
-      "examples": ["oght", "water", "raw"]
+      "examples": ["ought", "water", "raw"]
     }
   ]
 }
