@@ -242,7 +242,7 @@
     },
     {
       "id": 30,
-      "name": "open mid back unrounded vowel",
+      "name": "open-mid back unrounded vowel",
       "symbol": "ʌ",
       "type": "vowel",
       "articulation": {"height": "low-mid", "backness": "back", "isRounded": false, "isTense": false},
