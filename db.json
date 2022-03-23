@@ -279,6 +279,14 @@
       "type": "vowel",
       "articulation": {"height": "low-mid", "backness": "back", "isRounded": true, "isTense": false},
       "examples": ["ought", "water", "raw"]
+    },
+    {
+      "id": 35,
+      "name": "oʊ diphthong",
+      "symbol": "oʊ",
+      "type": "diphthong vowel",
+      "articulation": {"movement": "closing", "isRounded": true, "isTense": true},
+      "examples": ["open", "coat", "go"]
     }
   ]
 }
