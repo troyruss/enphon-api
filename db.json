@@ -289,11 +289,11 @@
       "examples": ["open", "coat", "go"]
     },
     {
-      "id": 28,
-      "name": "close-mid front unrounded vowel",
+      "id": 36,
+      "name": "eɪ diphthong",
       "symbol": "eɪ",
-      "type": "vowel",
-      "articulation": {"height": "high-mid", "backness": "front", "isRounded": false, "isTense": true},
+      "type": "diphthong vowel",
+      "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
       "examples": ["age", "cake", "say"]
     }
   ]
