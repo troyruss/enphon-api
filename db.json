@@ -224,14 +224,14 @@
       "articulation": {"height": "high", "backness": "front", "isRounded": false, "isTense": true},
       "examples": ["equal", "secret", "free"]
     },
-    {
-      "id": 28,
-      "name": "close-mid front unrounded vowel",
-      "symbol": "eɪ",
-      "type": "vowel",
-      "articulation": {"height": "high-mid", "backness": "front", "isRounded": false, "isTense": true},
-      "examples": ["age", "cake", "say"]
-    },
+    // {
+    //   "id": 28,
+    //   "name": "close-mid front unrounded vowel",
+    //   "symbol": "eɪ",
+    //   "type": "vowel",
+    //   "articulation": {"height": "high-mid", "backness": "front", "isRounded": false, "isTense": true},
+    //   "examples": ["age", "cake", "say"]
+    // },
     {
       "id": 29,
       "name": "mid central vowel",
@@ -287,6 +287,14 @@
       "type": "diphthong vowel",
       "articulation": {"movement": "closing", "isRounded": true, "isTense": true},
       "examples": ["open", "coat", "go"]
+    },
+    {
+      "id": 28,
+      "name": "close-mid front unrounded vowel",
+      "symbol": "eɪ",
+      "type": "vowel",
+      "articulation": {"height": "high-mid", "backness": "front", "isRounded": false, "isTense": true},
+      "examples": ["age", "cake", "say"]
     }
   ]
 }
