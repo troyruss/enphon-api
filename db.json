@@ -303,6 +303,14 @@
       "type": "diphthong vowel",
       "articulation": {"movement": "closing", "isRounded": true, "isTense": true},
       "examples": ["out", "house", "now"]
+    },
+    {
+      "id": 38,
+      "name": "aɪ diphthong",
+      "symbol": "aɪ",
+      "type": "diphthong vowel",
+      "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
+      "examples": ["eye", "time", "fly"]
     }
   ]
 }
