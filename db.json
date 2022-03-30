@@ -311,6 +311,14 @@
       "type": "diphthong vowel",
       "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
       "examples": ["eye", "time", "fly"]
+    },
+    {
+      "id": 39,
+      "name": "ɔɪ diphthong",
+      "symbol": "ɔɪ",
+      "type": "diphthong vowel",
+      "articulation": {"movement": "closing", "isRounded": true, "isTense": true},
+      "examples": ["oil", "point", "boy"]
     }
   ]
 }
