@@ -319,6 +319,14 @@
       "type": "diphthong vowel",
       "articulation": {"movement": "closing", "isRounded": true, "isTense": true},
       "examples": ["oil", "point", "boy"]
+    },
+    {
+      "id": 40,
+      "name": "ɑr r-colored vowel",
+      "symbol": "ɑr",
+      "type": "r-colored vowel",
+      "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
+      "examples": ["arm", "heart", "car"]
     }
   ]
 }
