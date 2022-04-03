@@ -233,7 +233,7 @@
     //   "examples": ["age", "cake", "say"]
     // },
     {
-      "id": 29,
+      "id": 28,
       "name": "mid central vowel",
       "symbol": "ə",
       "type": "vowel",
@@ -241,7 +241,7 @@
       "examples": ["about", "family", "camera"]
     },
     {
-      "id": 30,
+      "id": 29,
       "name": "open-mid back unrounded vowel",
       "symbol": "ʌ",
       "type": "vowel",
@@ -249,7 +249,7 @@
       "examples": ["up", "bus", "compass"]
     },
     {
-      "id": 31,
+      "id": 30,
       "name": "open back unrounded vowel",
       "symbol": "ɑ",
       "type": "vowel",
@@ -257,7 +257,7 @@
       "examples": ["art", "father", "spa"]
     },
     {
-      "id": 32,
+      "id": 31,
       "name": "near-close near-back rounded vowel",
       "symbol": "ʊ",
       "type": "vowel",
@@ -265,7 +265,7 @@
       "examples": ["book", "good", "cushion"]
     },
     {
-      "id": 33,
+      "id": 32,
       "name": "close back rounded vowel",
       "symbol": "u",
       "type": "vowel",
@@ -273,7 +273,7 @@
       "examples": ["oops", "cool", "blue"]
     },
     {
-      "id": 34,
+      "id": 33,
       "name": "open-mid back rounded vowel",
       "symbol": "ɔ",
       "type": "vowel",
@@ -281,7 +281,7 @@
       "examples": ["ought", "water", "raw"]
     },
     {
-      "id": 35,
+      "id": 34,
       "name": "oʊ diphthong",
       "symbol": "oʊ",
       "type": "diphthong vowel",
@@ -289,7 +289,7 @@
       "examples": ["open", "coat", "go"]
     },
     {
-      "id": 36,
+      "id": 35,
       "name": "eɪ diphthong",
       "symbol": "eɪ",
       "type": "diphthong vowel",
@@ -297,7 +297,7 @@
       "examples": ["age", "cake", "say"]
     },
     {
-      "id": 37,
+      "id": 36,
       "name": "aʊ diphthong",
       "symbol": "aʊ",
       "type": "diphthong vowel",
@@ -305,7 +305,7 @@
       "examples": ["out", "house", "now"]
     },
     {
-      "id": 38,
+      "id": 37,
       "name": "aɪ diphthong",
       "symbol": "aɪ",
       "type": "diphthong vowel",
@@ -313,7 +313,7 @@
       "examples": ["eye", "time", "fly"]
     },
     {
-      "id": 39,
+      "id": 38,
       "name": "ɔɪ diphthong",
       "symbol": "ɔɪ",
       "type": "diphthong vowel",
@@ -321,12 +321,20 @@
       "examples": ["oil", "point", "boy"]
     },
     {
-      "id": 40,
+      "id": 39,
       "name": "ɑr r-colored vowel",
       "symbol": "ɑr",
       "type": "r-colored vowel",
       "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
       "examples": ["arm", "heart", "car"]
+    },
+    {
+      "id": 40,
+      "name": "ɜr r-colored vowel",
+      "symbol": "ɜr",
+      "type": "r-colored vowel",
+      "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
+      "examples": ["early", "turn", "her"]
     }
   ]
 }
