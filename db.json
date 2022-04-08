@@ -335,6 +335,14 @@
       "type": "r-colored vowel",
       "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
       "examples": ["early", "turn", "her"]
+    },
+    {
+      "id": 41,
+      "name": "ɜɔr r-colored vowel",
+      "symbol": "ɔr",
+      "type": "r-colored vowel",
+      "articulation": {"movement": "closing", "isRounded": true, "isTense": true},
+      "examples": ["order", "north", "war"]
     }
   ]
 }
