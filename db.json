@@ -351,6 +351,14 @@
       "type": "r-colored vowel",
       "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
       "examples": ["ear", "hearing", "near"]
+    },
+    {
+      "id": 43,
+      "name": "ər r-colored vowel",
+      "symbol": "ər",
+      "type": "r-colored vowel",
+      "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
+      "examples": ["earth", "camera", "other"]
     }
   ]
 }
