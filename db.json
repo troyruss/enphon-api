@@ -317,7 +317,7 @@
       "name": "ɑr r-colored vowel",
       "symbol": "ɑr",
       "type": "r-colored vowel",
-      "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
+      "articulation": {"height": "low", "backness": "back", "isRounded": false, "isTense": true},
       "examples": ["arm", "heart", "car"]
     },
     {
