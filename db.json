@@ -325,7 +325,7 @@
       "name": "ɜr r-colored vowel",
       "symbol": "ɜr",
       "type": "r-colored vowel",
-      "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
+      "articulation": {"height": "low-mid", "backness": "front", "isRounded": false, "isTense": false},
       "examples": ["early", "turn", "her"]
     },
     {
