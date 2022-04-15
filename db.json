@@ -341,7 +341,7 @@
       "name": "ir r-colored vowel",
       "symbol": "ir",
       "type": "r-colored vowel",
-      "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
+      "articulation": {"height": "high", "backness": "front", "isRounded": false, "isTense": true},
       "examples": ["ear", "hearing", "near"]
     },
     {
