@@ -349,7 +349,7 @@
       "name": "ər r-colored vowel",
       "symbol": "ər",
       "type": "r-colored vowel",
-      "articulation": {"movement": "closing", "isRounded": false, "isTense": true},
+      "articulation": {"height": "mid", "backness": "central", "isRounded": false, "isTense": false},
       "examples": ["earth", "camera", "other"]
     }
   ]
