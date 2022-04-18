@@ -314,41 +314,41 @@
     },
     {
       "id": 39,
-      "name": "ɑr r-colored vowel",
+      "name": "ɑr r-controlled vowel",
       "symbol": "ɑr",
-      "type": "r-colored vowel",
+      "type": "r-controlled vowel",
       "articulation": {"height": "low", "backness": "back", "isRounded": false, "isTense": true},
       "examples": ["arm", "heart", "car"]
     },
     {
       "id": 40,
-      "name": "ɜr r-colored vowel",
+      "name": "ɜr r-controlled vowel",
       "symbol": "ɜr",
-      "type": "r-colored vowel",
+      "type": "r-controlled vowel",
       "articulation": {"height": "low-mid", "backness": "front", "isRounded": false, "isTense": false},
       "examples": ["early", "turn", "her"]
     },
     {
       "id": 41,
-      "name": "ɔr r-colored vowel",
+      "name": "ɔr r-controlled vowel",
       "symbol": "ɔr",
-      "type": "r-colored vowel",
+      "type": "r-controlled vowel",
       "articulation": {"height": "low-mid", "backness": "back", "isRounded": true, "isTense": false},
       "examples": ["order", "north", "war"]
     },
     {
       "id": 42,
-      "name": "ir r-colored vowel",
+      "name": "ir r-controlled vowel",
       "symbol": "ir",
-      "type": "r-colored vowel",
+      "type": "r-controlled vowel",
       "articulation": {"height": "high", "backness": "front", "isRounded": false, "isTense": true},
       "examples": ["ear", "hearing", "near"]
     },
     {
       "id": 43,
-      "name": "ər r-colored vowel",
+      "name": "ər r-controlled vowel",
       "symbol": "ər",
-      "type": "r-colored vowel",
+      "type": "r-controlled vowel",
       "articulation": {"height": "mid", "backness": "central", "isRounded": false, "isTense": false},
       "examples": ["earth", "camera", "other"]
     }
