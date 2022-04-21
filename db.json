@@ -250,7 +250,7 @@
     },
     {
       "id": 31,
-      "name": "near-high near-back rounded vowel",
+      "name": "near-close near-back rounded vowel",
       "symbol": "ʊ",
       "type": "vowel",
       "articulation": {"height": "near-high", "backness": "back", "isRounded": true, "isTense": false},
